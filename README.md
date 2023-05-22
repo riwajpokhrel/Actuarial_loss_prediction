@@ -11,7 +11,7 @@
 - Exploratory Data Analysis
 - Encoding Catagorical Variables
 - Feature Engineering
-- Natural Language Processing of text column
+- Natural Language Processing for the text column
     - Bag-of-Words model
 - Predictive models:
     - Decision Tree 
